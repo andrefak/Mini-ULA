@@ -1,5 +1,5 @@
-# Mini-ULA
-Mini ULA project for Digital Logic Laboratory classes.
+# Mini-ALU
+Basic Arithmetic Logic Unit project for Digital Logic Laboratory classes.
 
 ## Info
 Quartus 2 project, with:
